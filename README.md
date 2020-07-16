@@ -4,3 +4,9 @@ delete me when finished :)
 "git clone <url>": download the repo from the web to your computer. 
   - make sure you're not in another repo!!!
   - only one per repo
+
+
+##branches
+
+"created a new branch" 
+git switch <branch name>: to work on that branch
