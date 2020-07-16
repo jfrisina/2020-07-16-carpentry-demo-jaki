@@ -17,4 +17,8 @@ git switch <branch name>: to work on that branch
 
 when finished with a pull and merge, you can delete the branch. github prompts you, but there is still additional cleanup needed after that. 
 
-fetch --prune is helpful to remove deleted branches from the log to make it easier to see previous changes. 
+fetch --prune is helpful to remove deleted branches from the log to make it easier to see previous changes.
+
+learned how ot switch and create a branch at the same time
+
+git switch -c branch-name 
